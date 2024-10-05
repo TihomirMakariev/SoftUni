@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class ListOfProducts_06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         int n = Integer.parseInt(scanner.nextLine());
         List<String> products = new ArrayList<>();
 

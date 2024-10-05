@@ -2,7 +2,7 @@ package Java_Fundamentals.MethodsLab;
 
 import java.util.Scanner;
 
-public class demo {
+public class Demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String fullName = readFullName(scanner);
